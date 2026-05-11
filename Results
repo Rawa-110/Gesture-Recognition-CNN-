@@ -1,0 +1,36 @@
+📊 Results
+🎯 Training Accuracy & Loss
+
+The results show both training and testing accuracy and loss of the proposed CNN model, indicating strong learning performance and good generalization.
+
+The model achieved high accuracy during training and maintained stable performance on testing data, which demonstrates its effectiveness.
+
+🖼️ Recognition Results
+
+The model successfully recognized input images and correctly classified different samples such as “A”, “G”, and “S”, showing reliable classification performance across various inputs.
+
+⚖️ Comparison with Literature
+
+The proposed model achieved a high accuracy of 99.35%, which is slightly higher than some previous studies and close to the best reported results.
+
+Although some studies achieved marginally higher accuracy, the proposed system remains highly competitive and effective.
+
+It is also noted that environmental factors such as lighting conditions may affect performance, as highlighted in related work.
+
+📈 Performance Analysis
+
+The system demonstrates strong robustness in recognizing inputs even under different conditions such as noise, varying angles, and lighting changes.
+
+The use of CNN significantly improves feature extraction and classification accuracy.
+
+This project successfully developed a CNN-based image classification system capable of recognizing hand gestures with high accuracy.
+
+The results confirm that CNNs are highly effective for image recognition tasks.
+
+The system has practical applications in:
+
+Smart home control
+Virtual reality interaction
+Gaming systems without controllers
+
+Overall, the project demonstrates the power of deep learning in building intelligent systems that understand and interpret visual input efficiently.
